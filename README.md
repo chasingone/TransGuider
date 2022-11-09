@@ -1,3 +1,3 @@
 # TransGuider
-Multi-Attention Collaborative Guidance for Medical Image Segmentation 
+Multi-Attention Collaborative Guidance Network for Medical Image Segmentation 
 # Code will will be available soon
